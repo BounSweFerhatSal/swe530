@@ -19,7 +19,7 @@ Use case diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530
 
 **Class Diagrams :**
 
-Class diagrams diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/class%20diagrams).
+Class diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/class%20diagrams).
 
 
 **Module Diagram :**
@@ -28,16 +28,16 @@ Module diagram can be found [here](https://github.com/BounSweFerhatSal/swe530/tr
 
 **State chart Diagrams :**
 
-State chart diagrams diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/state%20chart%20diagrams).
+State chart diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/state%20chart%20diagrams).
 
 
 **BPMN Diagrams :**
 
-BPMN diagrams diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/bpmn%20diagrams).
+BPMN diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/bpmn%20diagrams).
 
 **Sequence Diagrams :**
 
-Sequence diagrams diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/sequence%20diagrams).
+Sequence diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/sequence%20diagrams).
 
 **Mockups :**
 
