@@ -2,24 +2,50 @@
 
 Our team consists of 3 people: Ferhat SAL, Orkun Muti and Hasan Gökçe. Our project is about designing a Book Store e-Commerce web application. Here in this repo, we are storing our work as "files" which are the result of our weekly studies. 
 
-Here are the files and what are they about : 
+Here is our folder structure and what are they about : 
 
 ***
 ### Requirements :
 
-[SWE 530 - BookStore Application.pdf](https://github.com/BounSweFerhatSal/swe530/blob/master/SWE%20530%20%20-%20BookStore%20Application.pdf) is our SRS document.
+Project SRS document can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/requirements).
+
+***
 
 ### Design : 
 
-[BookStore_Use_Case_FrontOffice.png](https://github.com/BounSweFerhatSal/swe530/blob/master/BookStore_Use_Case_FrontOffice.png)  and [BookStore_UseCase_BackOffice.png](https://github.com/BounSweFerhatSal/swe530/blob/master/BookStore_UseCase_BackOffice.png) files are our Use Case Diagrams.
+**Use Case Diagrams :**
 
-[BookStoreModules.png](https://github.com/BounSweFerhatSal/swe530/blob/master/BookStoreModules.png) is our Module Diagram.
+Use case diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/use%20cases).
 
-[BookStoreModules-State Chart.jpg](https://github.com/BounSweFerhatSal/swe530/blob/master/BookStoreModules-State%20Chart.jpg) is the state chart of the Order Class.
+**Class Diagrams :**
 
-[BookStoreModules-Class Diagrams.jpg](https://github.com/BounSweFerhatSal/swe530/blob/master/BookStoreModules-Class%20Diagrams.jpg) is our class diagram.
+Class diagrams diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/class%20diagrams).
 
-[SWE 530 BPMN.png](https://github.com/BounSweFerhatSal/swe530/blob/master/SWE%20530%20BPMN.png) is our BPMN diagram
+
+**Module Diagram :**
+
+Module diagram can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/modules).
+
+**State chart Diagrams :**
+
+State chart diagrams diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/state%20chart%20diagrams).
+
+
+**BPMN Diagrams :**
+
+BPMN diagrams diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/bpmn%20diagrams).
+
+**Sequence Diagrams :**
+
+Sequence diagrams diagrams can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/sequence%20diagrams).
+
+**Mockups :**
+
+Project prototypes can be found [here](https://github.com/BounSweFerhatSal/swe530/tree/master/mockups).
+
+***
+
+### Design Patterns
 
  [Factory Method Design Pattern](https://github.com/BounSweFerhatSal/swe530/blob/master/design_patterns/factory_method_pattern/Factory%20Method%20Pattern.odp)
 
